@@ -9,6 +9,9 @@
 
 Easy Authentication and Authorization with Keycloak in .NET and ASP.NET Core.
 
+TODO:
+    Add a sample and additional code as needed to support Blazor Hosted Webassembly!
+
 Package                                | Version                                                                                                                                  | Description
 ---------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------
 `Keycloak.AuthServices.Authentication` | [![Nuget](https://img.shields.io/nuget/v/Keycloak.AuthServices.Authentication.svg)](https://nuget.org/packages/Keycloak.AuthServices.Authentication)                         | Keycloak Authentication JWT + OICD
